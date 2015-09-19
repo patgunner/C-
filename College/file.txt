@@ -1,0 +1,141 @@
+A recommender system aims to provide users with personalized online product or service recommendations to
+handle the increasing online information overload problem and improve customer relationship management.
+Various recommender system techniques have been proposed since the mid-1990s, and many sorts of recom-
+mender system software have been developed recently for a variety of applications. Researchers and managers
+recognize that recommender systems offer great opportunities and challenges for business, government, educa-
+tion, and other domains, with more recent successful developments of recommender systems for real-world ap-
+plications becoming apparent. It is thus vital that a high quality, instructive review of current trends should be
+conducted, not only of the theoretical research results but more importantly of the practical developments in
+recommender systems. This paper therefore reviews up-to-date application developments of recommender sys-
+tems, clusters their applications into eight main categories: e-government, e-business, e-commerce/e-shopping,
+e-library, e-learning, e-tourism, e-resource services and e-group activities, and summarizes the related recom-
+mendation techniques used in each category. It systematically examines the reported recommender systems
+through four dimensions: recommendation methods (such as CF), recommender systems software (such as
+BizSeeker), real-world application domains (such as e-business) and application platforms (such as mobile-
+based platforms). Some significant new topics are identified and listed as new directions. By providing a state-
+of-the-art knowledge, this survey will directly support researchers and practical professionals in their under-
+standing of developments in recommender system applications. Recommender systems can be defined as programs which attempt
+to recommend the most suitable items (products or services) to partic-
+ular users (individuals or businesses) by predicting a user's interest in an
+item based on related information about the items, the users and the in-
+teractions between items and users [1]. The aim of developing recom-
+mender systems is to reduce information overload by retrieving the
+most relevant information and services from a huge amount of data,
+thereby providing personalized services. The most important feature
+of a recommender system is its ability to “guess” a user's preferences
+and interests by analyzing the behavior of this user and/or the behavior
+of other users to generate personalized recommendations [2].
+E-service personalization techniques are typified by recommender
+systems, which have gained much attention in the past 20 years [3].
+Early research in recommender systems grew out of information re-
+trieval and filtering research [4], and recommender systems emerged as an independent research area in the mid-1990s when researchers
+started to focus on recommendation problems that explicitly rely on
+the rating structure [3]. Commonly used recommendation tech-
+niques include collaborative filtering (CF) [5], content-based (CB)
+[6] and knowledge-based (KB) [7] techniques. Each recommenda-
+tion approach has advantages and limitations; for example, CF has
+sparseness, scalability and cold-start problems [3,5], while CB has
+overspecialized recommendations [3]. To solve these problems,
+many advanced recommendation approaches have been proposed,
+such as social network-based recommender systems [8], fuzzy recom-
+mender systems [9,10], context awareness-based recommender sys-
+tems [11] and group recommender systems [12].
+With the development of recommendation approaches and tech-
+niques, more and more recommender systems (software) have been
+implemented and many real-world recommender system applications
+have been developed. It was pointed out recently that application
+study is the main research focus of current recommender system
+research, especially in the current age of big data [1,13]. The applications
+of recommender systems include recommending movies, music, televi-
+sion programs, books, documents, websites, conferences, tourism scenic
+spots and learning materials, and involve the areas of e-commerce,
+e-learning, e-library, e-government and e-business services. Therefore,
+to help researchers understand the recommender system development as an independent research area in the mid-1990s when researchers
+started to focus on recommendation problems that explicitly rely on
+the rating structure [3]. Commonly used recommendation tech-
+niques include collaborative filtering (CF) [5], content-based (CB)
+[6] and knowledge-based (KB) [7] techniques. Each recommenda-
+tion approach has advantages and limitations; for example, CF has
+sparseness, scalability and cold-start problems [3,5], while CB has
+overspecialized recommendations [3]. To solve these problems,
+many advanced recommendation approaches have been proposed,
+such as social network-based recommender systems [8], fuzzy recom-
+mender systems [9,10], context awareness-based recommender sys-
+tems [11] and group recommender systems [12].
+With the development of recommendation approaches and tech-
+niques, more and more recommender systems (software) have been
+implemented and many real-world recommender system applications
+have been developed. It was pointed out recently that application
+study is the main research focus of current recommender system
+research, especially in the current age of big data [1,13]. The applications
+of recommender systems include recommending movies, music, televi-
+sion programs, books, documents, websites, conferences, tourism scenic
+spots and learning materials, and involve the areas of e-commerce,
+e-learning, e-library, e-government and e-business services. Therefore,
+to help researchers understand the recommender system developmentas an independent research area in the mid-1990s when researchers
+started to focus on recommendation problems that explicitly rely on
+the rating structure [3]. Commonly used recommendation tech-
+niques include collaborative filtering (CF) [5], content-based (CB)
+[6] and knowledge-based (KB) [7] techniques. Each recommenda-
+tion approach has advantages and limitations; for example, CF has
+sparseness, scalability and cold-start problems [3,5], while CB has
+overspecialized recommendations [3]. To solve these problems,
+many advanced recommendation approaches have been proposed,
+such as social network-based recommender systems [8], fuzzy recom-
+mender systems [9,10], context awareness-based recommender sys-
+tems [11] and group recommender systems [12].
+With the development of recommendation approaches and tech-
+niques, more and more recommender systems (software) have been
+implemented and many real-world recommender system applications
+have been developed. It was pointed out recently that application
+study is the main research focus of current recommender system
+research, especially in the current age of big data [1,13]. The applications
+of recommender systems include recommending movies, music, televi-
+sion programs, books, documents, websites, conferences, tourism scenic
+spots and learning materials, and involve the areas of e-commerce,
+e-learning, e-library, e-government and e-business services. Therefore,
+to help researchers understand the recommender system development as an independent research area in the mid-1990s when researchers
+started to focus on recommendation problems that explicitly rely on
+the rating structure [3]. Commonly used recommendation tech-
+niques include collaborative filtering (CF) [5], content-based (CB)
+[6] and knowledge-based (KB) [7] techniques. Each recommenda-
+tion approach has advantages and limitations; for example, CF has
+sparseness, scalability and cold-start problems [3,5], while CB has
+overspecialized recommendations [3]. To solve these problems,
+many advanced recommendation approaches have been proposed,
+such as social network-based recommender systems [8], fuzzy recom-
+mender systems [9,10], context awareness-based recommender sys-
+tems [11] and group recommender systems [12].
+With the development of recommendation approaches and tech-
+niques, more and more recommender systems (software) have been
+implemented and many real-world recommender system applications
+have been developed. It was pointed out recently that application
+study is the main research focus of current recommender system
+research, especially in the current age of big data [1,13]. The applications
+of recommender systems include recommending movies, music, televi-
+sion programs, books, documents, websites, conferences, tourism scenic
+spots and learning materials, and involve the areas of e-commerce,
+e-learning, e-library, e-government and e-business services. Therefore,
+to help researchers understand the recommender system developmentas an independent research area in the mid-1990s when researchers
+started to focus on recommendation problems that explicitly rely on
+the rating structure [3]. Commonly used recommendation tech-
+niques include collaborative filtering (CF) [5], content-based (CB)
+[6] and knowledge-based (KB) [7] techniques. Each recommenda-
+tion approach has advantages and limitations; for example, CF has
+sparseness, scalability and cold-start problems [3,5], while CB has
+overspecialized recommendations [3]. To solve these problems,
+many advanced recommendation approaches have been proposed,
+such as social network-based recommender systems [8], fuzzy recom-
+mender systems [9,10], context awareness-based recommender sys-
+tems [11] and group recommender systems [12].
+With the development of recommendation approaches and tech-
+niques, more and more recommender systems (software) have been
+implemented and many real-world recommender system applications
+have been developed. It was pointed out recently that application
+study is the main research focus of current recommender system
+research, especially in the current age of big data [1,13]. The applications
+of recommender systems include recommending movies, music, televi-
+sion programs, books, documents, websites, conferences, tourism scenic
+spots and learning materials, and involve the areas of e-commerce,
+e-learning, e-library, e-government and e-business services. Therefore,
+to help researchers understand the recommender system development
